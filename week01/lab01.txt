@@ -20,3 +20,6 @@ drwxr-xr-x  2 alvin.raihan StafCS 4096 Feb 14 18:26 week09
 drwxr-xr-x  2 alvin.raihan StafCS 4096 Feb 14 19:08 week10
 drwxr-xr-x  2 alvin.raihan StafCS 4096 Feb 14 19:10 xtra
 /home/fasilkom/mahasiswa/a/alvin.raihan/os171/week01
+Today is 
+Today is 14 Feb 2017 at 20:13:26
+Today is 14 Feb 2017 at 20:13:40

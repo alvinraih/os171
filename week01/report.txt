@@ -1,0 +1,1 @@
+push and pull git , make directory move and change directory

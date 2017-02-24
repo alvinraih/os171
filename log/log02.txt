@@ -1,1 +1,4 @@
-test
+
+w02-170223-17-PS-About: Privacy
+w02-170224-14-PS-About: Privacy , digital signature , encryption
+w02-170224-15-LR-About: Learning C code http://cforbeginners.com/datatypes_C.html

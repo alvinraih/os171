@@ -1,0 +1,2 @@
+w03-170304-04-LR-About: Linux booting process http://computer-ciber.blogspot.co.id/2014/05/proses-booting-pada-sistem-operasi.html
+w03-170304-13-PS-About:  Security , booting startup script

@@ -1,0 +1,2 @@
+w08-170428-17-PS-About : client server messaging in lab
+w08-170429-22-LR-About : client server understanding

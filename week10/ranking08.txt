@@ -1,0 +1,23 @@
+-----------------------------------------
+RANKING08 ULASAN PESERTA OS 2017-1
+-----------------------------------------
+[W08-002] 385 http://abdulraziqandrimaterios.blogspot.co.id/2017/05/ulasan-1.html
+[W08-024] 384 http://osaffandhia.blogspot.com/2017/05/ulasan-1-websocket-dan-simulasi-mesin.html
+[W08-018] 380 http://fajarmarseto.blogspot.com/2017/05/shortest-job-first.html
+[W08-029] 379 http://os-for-life.blogspot.co.id/2017/05/websockets-on-lorejs.html
+[W08-005] 378 http://os171-vfa.blogspot.co.id/2017/05/ulasan1.html
+[W08-030] 377 http://osmriman.blogspot.com/2017/05/non-preemptive-priority-scheduling.html
+[W08-026] 375 http://osandregema.blogspot.co.id/2017/05/ulasan-2-cpu-scheduling.html
+[W08-001] 373 https://irvannotaqi.blogspot.co.id/2017/05/cpu-scheduling.html
+[W08-023] 370 http://mengulasos.blogspot.co.id/2017/05/ulasan-2-cpu-scheduling.html
+[W08-003] 369 http://joepw3.blogspot.co.id/2017/05/ulasan1.html
+[W08-017] 367 http://mayanggitarachmaryza.blogspot.co.id/2017/05/ulasan-2-cpu-scheduling.html
+[W08-006] 367 http://letslearnos.blogspot.co.id/2017/05/ulasan-2-short-job-first.html
+[W08-025] 364 http://mithaaw.blogspot.co.id/2017/05/ulasan-1-cpu-scheduling_20.html
+[W08-019] 360 http://galuhoctavia-os171.blogspot.co.id/2017/05/ulasan-2-multilevel-queue-scheduling.html
+[W08-016] 359 http://demiosyanglebihbaik.blogspot.co.id/2017/05/ulasan2-week08-socket-programming.html?m=1
+-------------------------------------------
+Oleh (GITHUB):    alvinraih
+URL BLOG RANKING: http://alvinraih.blogspot.com/p/ranking08.html
+Revisi Pertama:    23 Mei 2017
+-------------------------------------------

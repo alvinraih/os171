@@ -1,0 +1,22 @@
+ANKING06 ULASAN PESERTA OS 2017-1
+-----------------------------------------
+[W10-004] 378 http://samosirrinjani.blogspot.co.id/2017/05/ulasan-2.html
+[W06-028] 374 http://os-for-life.blogspot.co.id/2017/05/hyper-threading.html
+[W06-034] 373 http://graceanglc.blogspot.co.id/2017/05/multiprocessing-vs-multithreading.html
+[W06-019] 372 http://jihanadibah.blogspot.co.id/2017/05/ulasan-2.html
+[W06-030] 370 http://gheafanywp.blogspot.co.id/2017/05/binding-virtual-memory.html
+[W06-016] 369 http://rifkiadrn12.blogspot.com/2017/05/ulasan1-fork-system-call.html
+[W06-001] 369 http://jeffry41os.blogspot.co.id/p/ulasan-1-os.html
+[W06-015] 368 http://chairos171.blogspot.co.id/2017/05/ulasan2-socket-concepts-using-real-life.html
+[W06-033] 367 http://fnsaos171.blogspot.co.id/2017/05/ulasan-2-what-is-hyper-threading.html
+[W06-014] 366 http://os-muhammad.blogspot.co.id/2017/05/ulasan1.html
+[W06-029] 365 http://dhilakaha-os.blogspot.co.id/2017/05/ulasan-2-difference-between-process-and.html
+[W06-013] 365 http://haryoparigroho.blogspot.co.id/2017/05/ulasan1.html
+[W06-018] 361 http://radityanurfadillah.blogspot.co.id/2017/05/ulasan-2.html
+[W06-036] 361 http://irfinhandi.blogspot.co.id/2017/05/ulasan-2-first-come-first-served-cpu.html
+[W06-012] 360 http://arfirenaldios.blogspot.co.id/2017/05/ulasan-1-rpc.html
+-------------------------------------------
+Oleh (GITHUB):    alvinraih
+URL BLOG RANKING: http://alvinraih.blogspot.com/p/ranking06.html
+Revisi Pertama:    23 Mei 2017
+-------------------------------------------

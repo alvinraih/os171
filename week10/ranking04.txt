@@ -1,0 +1,23 @@
+-----------------------------------------
+RANKING04 ULASAN PESERTA OS 2017-1
+-----------------------------------------
+[W04-018] 389 http://fajarmarseto.blogspot.com/2017/05/big-endian-vs-little-endian.html
+[W04-020] 388 http://fajarbardan-os.blogspot.co.id/2017/05/ulasan-1.html
+[W04-013] 380 http://disaay.blogspot.co.id/2017/05/ulasan-1-pointers.html
+[W04-006] 378 http://bedhilzz.blogspot.co.id/2017/05/pointers-in-c-programming-languange.html
+[W04-011] 376 http://os171-sja.blogspot.co.id/2017/05/ulasan-1-os171.html
+[W04-017] 375 http://tossan-os171.blogspot.co.id/p/review-2.html
+[W04-010] 375 http://chairos171.blogspot.co.id/2017/05/pendahuluan-dalam-ulasan-ini-saya-akan.html
+[W04-012] 373 http://rqhoirunnisa.blogspot.co.id/2017/05/interrupts-vs-polling.html
+[W04-016] 372 http://faqrulans.blogspot.co.id/2017/05/pointer-in-c-ulasan-1.html
+[W04-021] 370 http://verruth.blogspot.co.id/2017/05/ulasan-1.html
+[W04-019] 370 http://galuhoctavia-os171.blogspot.co.id/2017/05/ulasan-1-endianness-byte-ordering.html
+[W04-009] 360 http://valentina-os.blogspot.com/2017/05/ulasan-1-pointers-dynamic-memory.html
+[W04-014] 365 http://demiosyanglebihbaik.blogspot.co.id/2017/05/ulasan-week04-about-c-stdioh-library.html
+[W04-015] 360 https://noviantialiasih.blogspot.co.id/2017/05/ulasan-2.html
+[W04-005] 370 http://oswitwit.blogspot.co.id/2017/05/ulasan-little-endian-vs-big-endian.html
+-------------------------------------------
+Oleh (GITHUB):    alvinraih
+URL BLOG RANKING: http://alvinraih.blogspot.co.id/p/ranking04.html
+Revisi Pertama:    23 Mei 2017
+-------------------------------------------
